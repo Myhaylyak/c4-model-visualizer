@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/c4-model-visualizer/static/css/main.75add5f5.chunk.css",
+    "main.js": "/c4-model-visualizer/static/js/main.5addf09b.chunk.js",
+    "main.js.map": "/c4-model-visualizer/static/js/main.5addf09b.chunk.js.map",
+    "runtime-main.js": "/c4-model-visualizer/static/js/runtime-main.9136dcd1.js",
+    "runtime-main.js.map": "/c4-model-visualizer/static/js/runtime-main.9136dcd1.js.map",
+    "static/css/2.35f98baf.chunk.css": "/c4-model-visualizer/static/css/2.35f98baf.chunk.css",
+    "static/js/2.1f5f7a22.chunk.js": "/c4-model-visualizer/static/js/2.1f5f7a22.chunk.js",
+    "static/js/2.1f5f7a22.chunk.js.map": "/c4-model-visualizer/static/js/2.1f5f7a22.chunk.js.map",
+    "index.html": "/c4-model-visualizer/index.html",
+    "precache-manifest.32aa2294dc47782976aabfd013f25940.js": "/c4-model-visualizer/precache-manifest.32aa2294dc47782976aabfd013f25940.js",
+    "service-worker.js": "/c4-model-visualizer/service-worker.js",
+    "static/css/2.35f98baf.chunk.css.map": "/c4-model-visualizer/static/css/2.35f98baf.chunk.css.map",
+    "static/css/main.75add5f5.chunk.css.map": "/c4-model-visualizer/static/css/main.75add5f5.chunk.css.map",
+    "static/js/2.1f5f7a22.chunk.js.LICENSE": "/c4-model-visualizer/static/js/2.1f5f7a22.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9136dcd1.js",
+    "static/css/2.35f98baf.chunk.css",
+    "static/js/2.1f5f7a22.chunk.js",
+    "static/css/main.75add5f5.chunk.css",
+    "static/js/main.5addf09b.chunk.js"
+  ]
+}
